@@ -13,3 +13,11 @@ Percobaan 1
 11. 4
 12. 2
 13. String.join adalah method yang menggabungkan elemen-elemen array menjadi satu string dengan pemisah (delimiter) tertentu.
+
+Pertanyaan 2
+1. Tidak, kita bisa mengisi elemen array mulai dari manapun asal tidak melebihi batas yang telah ditentukan
+
+Pertanyaan 3
+2. fungsi Arrays.toString adalah untuk menampilkan isi array
+3. nilai default untuk elemen array tersebut adalah 0 karena nilai belum diisi
+5. Tidak, panjang array tidak dapat dimodifikasi setelah diinstalasi
